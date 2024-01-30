@@ -19,6 +19,15 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+        'smarty/smarty' => array(
+            'pretty_version' => 'v4.3.5',
+            'version' => '4.3.5.0',
+            'reference' => 'e0cbbdf6ea21768d0194e59d2f8c2e20d5f0868c',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../smarty/smarty',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
         'zjkal/time-helper' => array(
             'pretty_version' => 'v1.1.4',
             'version' => '1.1.4.0',

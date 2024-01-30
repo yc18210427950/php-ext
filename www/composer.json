@@ -1,5 +1,6 @@
 {
     "require": {
-        "zjkal/time-helper": "^1.1"
+        "zjkal/time-helper": "^1.1",
+        "smarty/smarty": "^4.3"
     }
 }
