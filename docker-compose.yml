@@ -1,0 +1,14 @@
+version: "3"
+services:
+  php-ext:
+    build:
+      context: ./php
+      dockerfile: Dockerfile
+    restart: always
+    container_name: php-ext
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./www/:/www:rw
+    tty: true
+    stdin_open: true
