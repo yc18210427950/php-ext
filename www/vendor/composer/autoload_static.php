@@ -11,12 +11,20 @@ class ComposerStaticInit9982bf5d0e764ef12695fc3144a8e84c
         array (
             'zjkal\\' => 6,
         ),
+        'O' => 
+        array (
+            'Overtrue\\Pinyin\\' => 16,
+        ),
     );
 
     public static $prefixDirsPsr4 = array (
         'zjkal\\' => 
         array (
             0 => __DIR__ . '/..' . '/zjkal/time-helper/src',
+        ),
+        'Overtrue\\Pinyin\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/overtrue/pinyin/src',
         ),
     );
 

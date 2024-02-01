@@ -7,4 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'zjkal\\' => array($vendorDir . '/zjkal/time-helper/src'),
+    'Overtrue\\Pinyin\\' => array($vendorDir . '/overtrue/pinyin/src'),
 );

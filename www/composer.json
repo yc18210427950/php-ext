@@ -1,6 +1,7 @@
 {
     "require": {
         "zjkal/time-helper": "^1.1",
-        "smarty/smarty": "^4.3"
+        "smarty/smarty": "^4.3",
+        "overtrue/pinyin": "^5.0"
     }
 }

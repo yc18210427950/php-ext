@@ -29,3 +29,5 @@ RUN wget -nv -O /usr/local/bin/composer https://mirrors.aliyun.com/composer/comp
     && echo -e "\033[42;37m Build Completed :).\033[0m\n"
 
 # RUN composer require zjkal/time-helper
+
+CMD php -S 0.0.0.0:8000

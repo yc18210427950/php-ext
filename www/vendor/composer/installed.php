@@ -19,6 +19,15 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
+        'overtrue/pinyin' => array(
+            'pretty_version' => '5.3.0',
+            'version' => '5.3.0.0',
+            'reference' => 'cd40f248239231ae2d1f94348c323a40c7fc58b1',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../overtrue/pinyin',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
         'smarty/smarty' => array(
             'pretty_version' => 'v4.3.5',
             'version' => '4.3.5.0',
